@@ -1,5 +1,5 @@
 # QingTingFMParseApi
-Support Available Audio Parse Via channelId and programsId (Need Cookies)     
+Support Available Audio Parse Via channelId and programsId (Need Account)     
 If Not Available Audio, Can not Download Or Download File Is Only First X Seconds Available         
 ~ Experience Url      
 (If programsId = 0, Means Download Full channel)     
